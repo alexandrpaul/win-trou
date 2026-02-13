@@ -24,7 +24,7 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 
 | Case | Issue | Focus Area | Link |
 |------|--------|-------------|------|
-| 01 | Slow PC Performance | Performance Optimization | [View Case 01]() |
+| 01 | Slow PC Performance | Performance Optimization | [View Case 01](https://github.com/alexandrpaul/win-trou/blob/4866924295f6a070ed898d06cefca5acd0b926ba/Case%2001%20Slow%20PC%20Performance/case01.md) |
 | 02 | Network Connectivity Issue | Network Troubleshooting | [View Case 02]() |
 | 03 | Printer Not Responding | Peripheral Troubleshooting | [View Case 03]() |
 | 04 | Outlook Not Sending Emails | Application / Network | [View Case 04]() |
