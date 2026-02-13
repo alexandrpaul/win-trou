@@ -12,7 +12,6 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 - **Control Panel**
 
 
-
 ## Skills Demonstrated
 
 - Logical, step-by-step troubleshooting and problem-solving
@@ -22,3 +21,12 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 
 
 ## Cases Overview
+
+| Case | Issue | Focus Area | Link |
+|------|--------|-------------|------|
+| 01 | Slow PC Performance | Performance Optimization | [View Case 01]() |
+| 02 | Network Connectivity Issue | Network Troubleshooting | [View Case 02]() |
+| 03 | Printer Not Responding | Peripheral Troubleshooting | [View Case 03]() |
+| 04 | Outlook Not Sending Emails | Application / Network | [View Case 04]() |
+| 05 | Blue Screen Error | Hardware / Driver | [View Case 05]() |
+| 06 | Missing Bluetooth Driver | Device Manager / Driver Fix | [View Case 06]() |
