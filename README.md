@@ -6,7 +6,6 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 
 - **Windows 11**
 - **Task Manager**
-- **Group Policy Management Console (GPMC)**
 - **Device Manager**
 - **CMD**
 - **Control Panel**
