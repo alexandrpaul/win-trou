@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/alexandrpaul/win-trou/blob/e14f2109eb369a2514fc354fddbd0b4d6cb1723e/Case%2001%20Slow%20PC%20Performance/logo.png"/>
+</p>
+
 # Windows Troubleshooting Lab
 
 This project demonstrates hands-on experience troubleshooting real-world Windows support scenarios commonly faced in IT help desk roles. Each case is thoroughly documented, showcasing a methodical approach to issue resolution along with supporting screenshots.
