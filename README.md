@@ -28,3 +28,9 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 | 03 | Blue Screen Error | Hardware / Driver | [View Case 03](https://github.com/alexandrpaul/win-trou/blob/0b880596be64408957f36c6795009fb858504910/Case%2003%20Blue%20Screen%20Error/case03.md) |
 | 04 | Missing Bluetooth Driver | Device Manager / Driver Fix | [View Case 04](https://github.com/alexandrpaul/win-trou/blob/f4b76603ac2c8bf1367508d19cf2286b86267977/Case%2004%20Bluetooth%20Missing/case04.md) |
 
+
+## Screenshot Example
+Example from Case 06 (Network Fixed):
+
+![Network Restored](https://github.com/alexandrpaul/win-trou/blob/3e9fba440aedb84b97131fc222cf23318d366bc6/Case%2002%20Network%20Issue/img3.png)
+
