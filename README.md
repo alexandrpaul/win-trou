@@ -34,7 +34,7 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 
 
 ## Screenshot Example
-Example from Case 06 (Network Fixed):
+Example from **Case 06** (Network Fixed):
 
 ![Network Restored](https://github.com/alexandrpaul/win-trou/blob/3e9fba440aedb84b97131fc222cf23318d366bc6/Case%2002%20Network%20Issue/img3.png)
 
