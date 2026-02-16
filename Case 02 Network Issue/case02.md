@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/alexandrpaul/win-trou/blob/e14f2109eb369a2514fc354fddbd0b4d6cb1723e/Case%2001%20Slow%20PC%20Performance/logo.png"/>
+</p>
+
 # Case 02: Network Connectivity Issue
 
 ## Issue Description
