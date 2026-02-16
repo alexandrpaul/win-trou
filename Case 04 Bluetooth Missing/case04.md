@@ -2,7 +2,7 @@
 <img src="https://github.com/alexandrpaul/win-trou/blob/e14f2109eb369a2514fc354fddbd0b4d6cb1723e/Case%2001%20Slow%20PC%20Performance/logo.png"/>
 </p>
 
-# Case 06: Missing / Disabled Bluetooth Adapter
+# Case 04: Missing / Disabled Bluetooth Adapter
 
 ## Issue Description
 Bluetooth toggle missing in Settings, Bluetooth & Devices.
