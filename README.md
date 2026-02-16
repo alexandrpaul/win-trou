@@ -38,3 +38,8 @@ Example from Case 06 (Network Fixed):
 
 ![Network Restored](https://github.com/alexandrpaul/win-trou/blob/3e9fba440aedb84b97131fc222cf23318d366bc6/Case%2002%20Network%20Issue/img3.png)
 
+
+
+<h2> Final Thoughts </h2>
+
+<p> Through this lab, I gained hands-on experience troubleshooting Windows 11 issues that directly reflect day-to-day Help Desk work. The cases covered performance degradation, network connectivity failures, blue screen troubleshooting, and missing driver remediation. Each one was handled using a consistent, step-by-step diagnostic process. Leveraging built-in tools such as Task Manager, Device Manager, Control Panel, and CMD strengthened practical ability to isolate root causes, apply targeted fixes, and confirm stable resolution. Every scenario was documented end-to-end with screenshots and structured notes. This reinforced the importance of clear technical communication and repeatable solutions. Moving forward, this project provides a strong foundation for supporting Windows endpoints in a professional IT environment with speed, accuracy, and clean documentation. </p>
