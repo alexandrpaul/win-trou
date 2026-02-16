@@ -5,17 +5,17 @@
 # Case 01: Slow PC Performance
 
 ## Issue Description
-User reports that the computer becomes slow when opening applications or browser tabs.
+User reported the workstation was running slowly when launching applications and opening multiple browser tabs.
 
 ## Root Cause
-Multiple startup programs and high background CPU usage.
+Excessive startup applications and elevated background CPU utilization impacting overall system performance.
 
 ## Troubleshooting Steps
-1. Opened **Task Manager, Performance tab**.  
-2. Identified apps consuming high CPU and memory.  
-3. Disabled unnecessary **Startup apps**.  
-4. Ran **Disk Cleanup** to remove temporary files.  
-5. Restarted PC and confirmed improved speed.
+1. Opened **Task Manager** and reviewed the **Performance tab**.  
+2. Identified processes with high **CPU** and **Memory usage**.  
+3. Disabled non-essential applications in the **Startup tab**.  
+4. Ran **Disk Cleanup** to remove temporary files and free up storage.  
+5. Restarted the PC and validated performance improvements.
 
  **Before:**  
 ![High CPU usage](https://github.com/alexandrpaul/win-trou/blob/59901f11c4d2e10dd783097b282322690aed7f7a/Case%2001%20Slow%20PC%20Performance/img1.png)
@@ -24,7 +24,7 @@ Multiple startup programs and high background CPU usage.
 ![Improved performance](https://github.com/alexandrpaul/win-trou/blob/59901f11c4d2e10dd783097b282322690aed7f7a/Case%2001%20Slow%20PC%20Performance/img2.png)
 
 ## Resolution
-Performance improved after disabling background tasks and cleaning system files.
+System performance improved after reducing background load and cleaning temporary system files.
 
 ## Lessons Learned
-Regular maintenance prevents performance degradation over time.
+Routine system maintenance (startup optimization + periodic cleanup) helps prevent performance issues over time.
