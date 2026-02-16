@@ -2,7 +2,7 @@
 <img src="https://github.com/alexandrpaul/win-trou/blob/e14f2109eb369a2514fc354fddbd0b4d6cb1723e/Case%2001%20Slow%20PC%20Performance/logo.png"/>
 </p>
 
-#  Case 05: Blue Screen Error (BSOD)
+#  Case 03: Blue Screen Error (BSOD)
 
 ##  Issue Description
 System crashes with BSOD and error “DRIVER_IRQL_NOT_LESS_OR_EQUAL”.
