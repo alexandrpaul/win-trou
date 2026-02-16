@@ -5,17 +5,17 @@
 # Case 01: Slow PC Performance
 
 ## Issue Description
-User reported the workstation was running slowly when launching applications and opening multiple browser tabs.
+The user notices that the workstation runs slowly when launching applications or opening multiple browser tabs.
 
 ## Root Cause
-Excessive startup applications and elevated background CPU utilization impacting overall system performance.
+Excessive startup applications and high background CPU usage are impacting overall system performance.
 
 ## Troubleshooting Steps
-1. Opened **Task Manager** and reviewed the **Performance tab**.  
-2. Identified processes with high **CPU** and **Memory usage**.  
-3. Disabled non-essential applications in the **Startup tab**.  
-4. Ran **Disk Cleanup** to remove temporary files and free up storage.  
-5. Restarted the PC and validated performance improvements.
+1. Open **Task Manager** and navigate to the **Performance tab** to get an overview of CPU, Memory, and Disk usage.  
+2. Identify processes that are consuming high **CPU** or **Memory resources**.  
+3. Switch to the **Startup tab** and **disable non-essential applications** to reduce load at boot.  
+4. Run **Disk Cleanup** to remove temporary files and free up storage space.  
+5. Restart the PC and monitor performance to confirm improvements.
 
  **Before:**  
 ![High CPU usage](https://github.com/alexandrpaul/win-trou/blob/59901f11c4d2e10dd783097b282322690aed7f7a/Case%2001%20Slow%20PC%20Performance/img1.png)
@@ -24,7 +24,7 @@ Excessive startup applications and elevated background CPU utilization impacting
 ![Improved performance](https://github.com/alexandrpaul/win-trou/blob/59901f11c4d2e10dd783097b282322690aed7f7a/Case%2001%20Slow%20PC%20Performance/img2.png)
 
 ## Resolution
-System performance improved after reducing background load and cleaning temporary system files.
+The system runs smoother, with less background load and more responsive applications.
 
 ## Lessons Learned
-Routine system maintenance (startup optimization + periodic cleanup) helps prevent performance issues over time.
+Regular system maintenance, including startup optimization and periodic cleanup, prevents slowdowns and keeps the PC running efficiently.
