@@ -13,7 +13,7 @@ The issue stems from an outdated or corrupted network adapter driver.
 ##  Troubleshooting Steps
 1. Open **Event Viewer** and review system logs to identify error patterns.  
 2. Spot references to the **network adapter driver** as a potential source.  
-3. Launch **Device Manager** and navigate to **Network Adapters**.  
+3. Launch **Device Manager** and navigate to **Network Adapters**.
 4. Execute a **driver update** for the network adapter.  
 5. Reboot the system and observe that the BSOD no longer appears.
 
