@@ -5,21 +5,20 @@
 # Case 02: Network Connectivity Issue
 
 ## Issue Description
-User unable to browse the internet; shows “No Internet Access.”
+User was unable to browse the internet and the system displayed “No Internet Access”.
 
 ## Root Cause
-Corrupted or outdated IP configuration.
+IP configuration was corrupted, stale, or not properly assigned by DHCP.
 
 ## Troubleshooting Steps
-1. Opened CMD as Administrator.  
-2. Ran `ipconfig`, found no valid IP address.  
-3. Executed:
-4. Restarted network adapter via `ncpa.cpl`.  
-5. Verified internet restored.
-
-ipconfig /release
-ipconfig /renew
-ipconfig /flushdns
+1. Launch **Command Prompt** as Administrator.  
+2. Run `ipconfig`, and confirm there was **no valid IP address** assigned.  
+3. Execute the following commands:
+     `ipconfig /release`
+     `ipconfig /renew`
+     `ipconfig /flushdns`
+5. Restart the network adapter via `ncpa.cpl`.  
+6. Verify internet connectivity was restored
 
  **Before:**  
 ![ipconfig error](https://github.com/alexandrpaul/win-trou/blob/15568350e547948106337343b53ea1b8d2ec3da7/Case%2002%20Network%20Issue/img2.png)
