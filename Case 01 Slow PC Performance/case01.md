@@ -2,7 +2,7 @@
 <img src="https://github.com/alexandrpaul/win-trou/blob/e14f2109eb369a2514fc354fddbd0b4d6cb1723e/Case%2001%20Slow%20PC%20Performance/logo.png"/>
 </p>
 
-# Case 01: Slow PC Performanc
+# Case 01: Slow PC Performance
 
 ## Issue Description
 The user notices that the workstation runs slowly when launching applications or opening multiple browser tabs.
