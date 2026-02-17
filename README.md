@@ -28,7 +28,7 @@ This project demonstrates hands-on experience troubleshooting real-world Windows
 | Case | Issue | Focus Area | Link |
 |------|--------|-------------|------|
 | 01 | Slow PC Performance | Performance Optimization | [View Case 01](https://github.com/alexandrpaul/win-trou/blob/c98c2babd6475afaba4af8f1fe1c81790e812308/Case%2001%20Slow%20PC%20Performance/case01.md) |
-| 02 | Network Connectivity Issue | Network Troubleshooting | [View Case 02](https://github.com/alexandrpaul/win-trou/blob/e6f30e17a32ef630ef4359ea96e4d8563422e1f5/Case%2002%20Network%20Issue/case02.md) |
+| 02 | Network Connectivity Issue | Network Troubleshooting | [View Case 02](https://github.com/alexandrpaul/win-trou/blob/80da1fd103c909ddf37e7fcd3a260fddabb5a152/Case%2002%20Network%20Issue/case02.md) |
 | 03 | Blue Screen Error | Hardware / Driver | [View Case 03]() |
 | 04 | Missing Bluetooth Driver | Device Manager / Driver Fix | [View Case 04]() |
 
